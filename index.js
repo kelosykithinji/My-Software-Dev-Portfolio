@@ -3,8 +3,9 @@
 
 new Typewriter("h1", {
   strings:
-    "Hello and welcome to my Portfolio, My name is Kelosy Muthoni and i am a front-end developer",
+    "Hello and welcome to my Portfolio",
   autoStart: true,
-  
+  cursor: null,
+  delay: 100,
 });
 
